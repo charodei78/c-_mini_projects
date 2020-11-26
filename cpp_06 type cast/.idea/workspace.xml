@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="cpp_06" targetName="ex01" />
+      <config projectName="cpp_06" targetName="ex00" />
+      <config projectName="cpp_06" targetName="ex02" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fcacd19d-030f-4d71-abe5-228e4ad32731" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1kYC6aVk3yN8oxGJfgXamt5G6jB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.ex02">
+    <configuration name="ex00" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="12" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_06" TARGET_NAME="ex00" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_06" RUN_TARGET_NAME="ex00">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex01" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_06" TARGET_NAME="ex01" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_06" RUN_TARGET_NAME="ex01">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex02" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_06" TARGET_NAME="ex02" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_06" RUN_TARGET_NAME="ex02">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.ex00" />
+      <item itemvalue="CMake Application.ex01" />
+      <item itemvalue="CMake Application.ex02" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcacd19d-030f-4d71-abe5-228e4ad32731" name="Default Changelist" comment="" />
+      <created>1605867963578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605867963578</updated>
+      <workItem from="1605867964831" duration="38000" />
+      <workItem from="1605874161881" duration="87000" />
+      <workItem from="1605881832617" duration="5070000" />
+      <workItem from="1605960947069" duration="1219000" />
+      <workItem from="1605971401114" duration="3992000" />
+      <workItem from="1606045562246" duration="21000" />
+      <workItem from="1606045597767" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1234" y="585" key="#Inspections" timestamp="1605890861292">
+      <screen x="0" y="0" width="3200" height="1800" />
+    </state>
+    <state x="1234" y="585" key="#Inspections/0.0.3200.1800@0.0.3200.1800" timestamp="1605890861292" />
+    <state x="1064" y="562" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605887741777">
+      <screen x="0" y="0" width="3200" height="1800" />
+    </state>
+    <state x="1064" y="562" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3200.1800@0.0.3200.1800" timestamp="1605887741777" />
+    <state x="1338" y="654" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605886758089">
+      <screen x="0" y="0" width="3200" height="1800" />
+    </state>
+    <state x="1338" y="654" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3200.1800@0.0.3200.1800" timestamp="1605886758089" />
+    <state width="2518" height="520" key="GridCell.Tab.0.bottom" timestamp="1605975927395">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="520" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1605975927395" />
+    <state width="3158" height="542" key="GridCell.Tab.0.bottom/0.0.3200.1800@0.0.3200.1800" timestamp="1605892364087" />
+    <state width="3158" height="542" key="GridCell.Tab.0.bottom/0.23.3133.1777@0.23.3133.1777" timestamp="1605892467886" />
+    <state width="2518" height="520" key="GridCell.Tab.0.center" timestamp="1605975927395">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="520" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1605975927395" />
+    <state width="3158" height="542" key="GridCell.Tab.0.center/0.0.3200.1800@0.0.3200.1800" timestamp="1605892364086" />
+    <state width="3158" height="542" key="GridCell.Tab.0.center/0.23.3133.1777@0.23.3133.1777" timestamp="1605892467886" />
+    <state width="2518" height="520" key="GridCell.Tab.0.left" timestamp="1605975927394">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="520" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1605975927394" />
+    <state width="3158" height="542" key="GridCell.Tab.0.left/0.0.3200.1800@0.0.3200.1800" timestamp="1605892364086" />
+    <state width="3158" height="542" key="GridCell.Tab.0.left/0.23.3133.1777@0.23.3133.1777" timestamp="1605892467885" />
+    <state width="2518" height="520" key="GridCell.Tab.0.right" timestamp="1605975927395">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="520" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1605975927395" />
+    <state width="3158" height="542" key="GridCell.Tab.0.right/0.0.3200.1800@0.0.3200.1800" timestamp="1605892364087" />
+    <state width="3158" height="542" key="GridCell.Tab.0.right/0.23.3133.1777@0.23.3133.1777" timestamp="1605892467886" />
+    <state width="2518" height="520" key="GridCell.Tab.1.bottom" timestamp="1605975927396">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="520" key="GridCell.Tab.1.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1605975927396" />
+    <state width="2518" height="520" key="GridCell.Tab.1.center" timestamp="1605975927396">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="520" key="GridCell.Tab.1.center/0.0.2560.1440@0.0.2560.1440" timestamp="1605975927396" />
+    <state width="2518" height="520" key="GridCell.Tab.1.left" timestamp="1605975927395">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="520" key="GridCell.Tab.1.left/0.0.2560.1440@0.0.2560.1440" timestamp="1605975927395" />
+    <state width="2518" height="520" key="GridCell.Tab.1.right" timestamp="1605975927396">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="520" key="GridCell.Tab.1.right/0.0.2560.1440@0.0.2560.1440" timestamp="1605975927396" />
+    <state x="1325" y="692" key="refactoring.ChangeSignatureDialog" timestamp="1605891340326">
+      <screen x="0" y="0" width="3200" height="1800" />
+    </state>
+    <state x="1325" y="692" key="refactoring.ChangeSignatureDialog/0.0.3200.1800@0.0.3200.1800" timestamp="1605891340326" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ex02/main.cpp</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ex02/main.cpp</url>
+          <line>23</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
